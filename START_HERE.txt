@@ -1,0 +1,10 @@
+BREATHE & BLOOM — iPHONE SAFE SETUP
+
+This is a Safari Home Screen version, not an IPA/App Store app. It does not require Developer Mode, profiles, jailbreaks, or connecting to the iPhone.
+
+1) Read README.md for the free GitHub Pages hosting steps.
+2) Publish the files over HTTPS.
+3) Open the link in Safari on the iPhone and TEST it as a website first.
+4) When satisfied: Safari > Share > Add to Home Screen > enable Open as Web App (if shown) > Add.
+
+Important: the published webpage/repository is public. Do not upload private information. The app stores practice progress locally on the device.
